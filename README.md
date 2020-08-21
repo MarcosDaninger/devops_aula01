@@ -1,1 +1,1 @@
-# devops_aula01
+Primeiro repositório das aulas de Devops ministradas pelo professor Thiago Kuma na Faculdade Impacta de Tecnologia 
